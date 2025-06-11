@@ -9,4 +9,4 @@ This is a very simple Python script that generates a random password using lette
 
 ## How to Run:
 ```bash
-python password_generator.py
+python random_password_generator.py
